@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Private\MET\4. semestar\CS130 - C i C++ programski jezik\CS130-PZ2-StevanStojanovic5607\CS130-PZ2-StevanStojanovic5607\main.cpp(165,26): warning C4018: '>=': signed/unsigned mismatch
+C:\Private\MET\4. semestar\CS130 - C i C++ programski jezik\CS130-PZ2-StevanStojanovic5607\CS130-PZ2-StevanStojanovic5607\main.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+  CS130-PZ2-StevanStojanovic5607.vcxproj -> C:\Private\MET\4. semestar\CS130 - C i C++ programski jezik\CS130-PZ2-StevanStojanovic5607\CS130-PZ2-StevanStojanovic5607\Debug\CS130-PZ2-StevanStojanovic5607.exe
